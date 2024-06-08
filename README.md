@@ -1,3 +1,3 @@
-# learning
-learn software and AI
+# CryptoEcosystems
+Crypto Currency and Blockchain and Trivergence.
 this is new programing for mr souri.
